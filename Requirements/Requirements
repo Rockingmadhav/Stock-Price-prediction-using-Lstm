@@ -1,0 +1,11 @@
+✅ **Libraries Used**
+
+1. **pandas** – for data manipulation
+2. **numpy** – for numerical operations
+3. **matplotlib** – for plotting
+4. **scikit-learn (sklearn)** – for preprocessing and evaluation metrics
+   - `MinMaxScaler`
+   - `mean_absolute_error`, `mean_squared_error`, `r2_score`
+5. **tensorflow (keras)** – for building the LSTM model
+   - `Sequential`, `LSTM`, `Dense`, `Adam`
+
